@@ -21,8 +21,8 @@ This was done by utlizing the idea of web 3 and through following steps:
       2. wallet
       3. token
       4. Assigning the Kasei Crowdsale contract to the Kasei Crowdsale address variable
-    5. Setting the Kasei Coin Crwosale as a minter.
-    6. Renouncing the minter role of Kasei Coin Crowdsale Deployer
-    7. Compiling and deploying the contract.
-    8. Following image shows the deployed contract:
+   5. Setting the Kasei Coin Crwosale as a minter.
+   6. Renouncing the minter role of Kasei Coin Crowdsale Deployer
+   7. Compiling and deploying the contract.
+   8. Following image shows the deployed contract:
         ![Deployed Contract](Crowdsale.jpg)
